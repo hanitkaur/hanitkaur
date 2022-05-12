@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hanitkaur
-- 👀 I’m Data Analyst (Excel|Power Bi|Tableau|SQL|NoSql|Predictive Modelling|Python(Numpy,Pandas,seaborn, matplotlib,scipy,scikit-learn))
-- 🌱 I’m currently learning ML and DL
+- 👀 I’m Data Analyst (Excel|Power Bi|Tableau|SQL|NoSql|Predictive Modelling|Python(Numpy,Pandas,seaborn, matplotlib,scipy,scikit-learn))|Tensorflow
+- 🌱 I’m currently working in ML and DL projects
 - 📫 How to reach me hanitkaur14@gmail.com
 
 <!---
